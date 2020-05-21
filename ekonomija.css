@@ -1,0 +1,41 @@
+body{
+	background-image: url(haha.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0px;
+}
+ul {
+
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black
+}
+
+li {
+  float: right;
+  border-left: 1px solid white;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+div{
+	font-family: Arial,Helvetica;
+	width: 60%;
+	background-color: black;
+	margin: auto;
+	padding: 40px;
+	padding-bottom: 300px;
+	padding-top: 10px;
+	margin-top: 20px;
+	color: white;
+}
+h1{
+	text-align: center;
+}
